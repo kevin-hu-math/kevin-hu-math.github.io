@@ -1,2 +1,2 @@
-# kevin-hu-math.github.io
+# Kevin Hu
 Personal website

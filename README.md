@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <div style="height: 10px;"></div>
+  <div style="height: 100px;"></div>
   <img src="web_image.jpeg" alt="My Image" width="225">
   
   <div style="margin-left: 20px;">
@@ -22,11 +22,9 @@ You can reach me at kjh2189[at]columbia.edu.
 
 <h2>Publications and Preprints</h2>
 
-<div style="display: flex; align-items: center;">
-<p> <a href = "https://scholar.google.com/">Google Scholar</a> </p>
- 
+<div style="text-align: center;">
+    <a href = "https://scholar.google.com/">Google Scholar</a>
 </div>
-
 
 <p>
 <i>A case study of the long-time behavior of the Gaussian local-field equation</i> <br>

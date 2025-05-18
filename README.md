@@ -29,8 +29,6 @@ You can reach me at kjh2189[at]columbia.edu.
 </div>
 
 
-<div style="display: align-items: left;">
-
 <p>
 "A case study of the long-time behavior of the Gaussian local-field equation"<br>
 Kevin Hu, Kavita Ramanan. <br>
@@ -60,7 +58,5 @@ Preprint, 2024 (arXiv)
 Khunsa Amin, Jinzi Mac Huang, Kevin Hu, Jun Zhang, Leif Ristroph. <br>
 Proceedings of the National Academy of Sciences, 2019 (Link)
 </p>
-
-</div>
 
 

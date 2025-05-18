@@ -23,7 +23,7 @@ You can reach me at kjh2189[at]columbia.edu. Click <a href="CV__April_2025_.pdf"
 <h2>Research</h2>
 
 <div style="text-align: center; margin-bottom: 10px;">
-    <a href = "https://scholar.google.com/">Google Scholar</a>
+    <a href = "https://scholar.google.com/citations?user=G5ycrVsAAAAJ&hl=en&oi=sra">Google Scholar</a>
 </div>
 
 <p>

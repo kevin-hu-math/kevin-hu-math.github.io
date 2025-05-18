@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
 
-  <img src="kev_img.jpeg" alt="My Image" height="300">
+  <img src="kev_img.jpeg" alt="My Image" height="225">
   
   <div style="margin-left: 20px;">
 

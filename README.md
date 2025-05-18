@@ -19,7 +19,7 @@ You can reach me at kjh2189[at]columbia.edu. Click <a href="CV__April_2025_.pdf"
 
  </div>
 
-  <img src="kev_img.jpeg" alt="My Image" height="300"> 
+  <img src="kevin_hu.png" alt="My Image" height="300"> 
 </div>
 
 <h2>Publications and preprints</h2>

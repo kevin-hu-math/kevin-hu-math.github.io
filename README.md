@@ -1,7 +1,3 @@
-<h1>Kevin Hu</h1>
-
-
-
 <div style="display: flex; align-items: center;">
   
   <img src="web_image.jpeg" alt="My Image" width="225">

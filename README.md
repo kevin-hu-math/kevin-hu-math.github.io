@@ -55,7 +55,7 @@ Preprint, 2024. [<a href = "https://arxiv.org/abs/2405.08795">arXiv</a>]
 <p>
 <i>The role of shape-dependent flight stability in the origin of oriented meteorites</i> <br>
 Khunsa Amin, Jinzi Mac Huang, <b>Kevin Hu</b>, Jun Zhang, Leif Ristroph. <br>
-Proceedings of the National Academy of Sciences, 2019. [<a href = "https://www.pnas.org/doi/full/10.1073/pnas.1815133116">Link</a>]
+Proceedings of the National Academy of Sciences, 2019. [<a href = "https://www.pnas.org/doi/full/10.1073/pnas.1815133116">DOI</a>]
 </p>
 
 

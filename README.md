@@ -1,5 +1,3 @@
-<title>Kevin Hu</title>
-
 <div style="display: flex; align-items: center;">
 
  

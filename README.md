@@ -18,4 +18,10 @@ You can reach me at kjh2189[at]columbia.edu.
   </div>
 </div>
 
-# Research
+### Publications and Preprints
+
+<div style="display: flex; align-items: center;">
+<p> <a href = "https://scholar.google.com/">Google Scholar</a> </p>
+ 
+</div>
+

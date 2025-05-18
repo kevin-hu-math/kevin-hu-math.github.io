@@ -12,7 +12,7 @@
 
 <h3>About me</h3>
     
-<p> I am a  <a href = "https://www.simonsfoundation.org/simons-society-of-fellows/people/?type=junior">Junior Fellow</a> of the Simons Society of Fellows hosted by <a href = "https://www.columbia.edu/~dl3133/">Dan Lacker</a> at Columbia University. I obtained my PhD in applied mathematics at Brown University in 2025 under the supervision of <a href = "https://appliedmath.brown.edu/people/kavita-ramanan">Kavita Ramanan</a>.
+<p> I am a  <a href = "https://www.simonsfoundation.org/simons-society-of-fellows/people/?type=junior">Junior Fellow</a> of the Simons Society of Fellows hosted by <a href = "https://www.columbia.edu/~dl3133/">Dan Lacker</a> at Columbia University. I obtained my PhD in applied mathematics at Brown University in 2025 under the supervision of <a href = "https://appliedmath.brown.edu/people/kavita-ramanan">Kavita Ramanan</a>. Click <a href="CV__April_2025_.pdf" target="_blank" rel="noopener noreferrer">here</a> for a CV.
 </p>
 
 <p>
@@ -20,7 +20,7 @@ My research interests lie at the intersection of probability theory and mathemat
 </p>
 
 <p>
-You can reach me at kjh2189[at]columbia.edu. Click <a href="CV__April_2025_.pdf" target="_blank" rel="noopener noreferrer">here</a> for a CV.
+You can reach me at kjh2189[at]columbia.edu. 
 </p>
 
  </div>

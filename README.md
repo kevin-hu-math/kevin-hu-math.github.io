@@ -1,28 +1,30 @@
-# Kevin Hu
+<h1>Kevin Hu</h1>
 
-## About me
+
 
 <div style="display: flex; align-items: center;">
   
   <img src="web_image.jpeg" alt="My Image" width="225">
   
   <div style="margin-left: 20px;">
+
+<h3>About me</h3>
     
-<p style="font-size: 14px;> I am a <a href = "https://www.simonsfoundation.org/simons-society-of-fellows/people/?type=junior">Junior Fellow</a> of the Simons Society of Fellows hosted by <a href = "https://www.columbia.edu/~dl3133/">Daniel Lacker</a> at Columbia University. I obtained my PhD in applied mathematics at Brown University under the supervision of <a href = "https://appliedmath.brown.edu/people/kavita-ramanan">Kavita Ramanan</a> in 2025.
+<p> I am a <a href = "https://www.simonsfoundation.org/simons-society-of-fellows/people/?type=junior">Junior Fellow</a> of the Simons Society of Fellows hosted by <a href = "https://www.columbia.edu/~dl3133/">Daniel Lacker</a> at Columbia University. I obtained my PhD in applied mathematics at Brown University under the supervision of <a href = "https://appliedmath.brown.edu/people/kavita-ramanan">Kavita Ramanan</a> in 2025.
 </p>
 
-<p style="font-size: 14px;>
+<p>
 My research interests lie at the intersection of probability theory, partial differential equations, and mathematical physics. My doctoral thesis focuses on understanding propagation of chaos and long-time dynamics of strongly interacting particle systems using tools from stochastic analysis, random graph theory, and partial differential equations. A short general audience talk about my research can be found <a href = "https://www.youtube.com/watch?v=i2yfnAhQmWA">here</a>.
 </p>
 
-<p style="font-size: 14px;>
+<p>
 You can reach me at kjh2189[at]columbia.edu.
 </p>
 
   </div>
 </div>
 
-## Publications and Preprints
+<h2>Publications and Preprints</h2>
 
 <div style="display: flex; align-items: center;">
 <p> <a href = "https://scholar.google.com/">Google Scholar</a> </p>

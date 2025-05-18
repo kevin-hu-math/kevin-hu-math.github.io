@@ -14,7 +14,7 @@ My research interests lie at the intersection of probability theory, partial dif
 </p>
 
 <p>
-You can reach me at kjh2189[at]columbia.edu. Click <a href = "https://drive.google.com/file/d/1yuXA6MMm1l8Pml-b7EKtP_-f1Br-S5OQ/view?usp=sharing">here</a> for a CV.
+You can reach me at kjh2189[at]columbia.edu. Click <a href="CV__April_2025_.pdf" target="_blank" rel="noopener noreferrer">here</a> for a CV.
 </p>
 
  </div>

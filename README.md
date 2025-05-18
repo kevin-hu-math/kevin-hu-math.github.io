@@ -10,7 +10,7 @@
 </p>
 
 <p>
-My research interests lie at the intersection of probability theory and mathematical physics. My doctoral work focused on understanding propagation of chaos and long-time dynamics of sparsely interacting particle systems. A short general audience talk about my research can be found <a href = "https://www.youtube.com/watch?v=i2yfnAhQmWA">here</a>.
+My research interests lie at the intersection of probability theory and mathematical physics. In my thesis, I studied propagation of chaos and the long-time behavior of sparsely interacting particle systems. A short general audience talk about my research can be found <a href = "https://www.youtube.com/watch?v=i2yfnAhQmWA">here</a>.
 </p>
 
 <p>

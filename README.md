@@ -1,7 +1,10 @@
 # Kevin Hu
+
+### About me
+
 <div style="display: flex; align-items: center;">
   
-  <img src="web_image.jpeg" alt="My Image" width="250">
+  <img src="web_image.jpeg" alt="My Image" width="225">
   
   <div style="margin-left: 20px;">
 <p> I am a <a href = "https://www.simonsfoundation.org/simons-society-of-fellows/people/?type=junior">Junior Fellow</a> of the Simons Society of Fellows hosted by <a href = "https://www.columbia.edu/~dl3133/">Daniel Lacker</a> at Columbia University. I obtained my PhD in applied mathematics at Brown University under the supervision of <a href = "https://appliedmath.brown.edu/people/kavita-ramanan">Kavita Ramanan</a>.
@@ -20,13 +23,13 @@ You can reach me at kjh2189[at]columbia.edu.
 
 ### Publications and Preprints
 
-<div style="display: flex; align-items: left;">
+<div style="display: flex; align-items: center;">
 <p> <a href = "https://scholar.google.com/">Google Scholar</a> </p>
  
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: align-items: left;">
 
 <p>
 "A case study of the long-time behavior of the Gaussian local-field equation"<br>

@@ -24,7 +24,7 @@ You can reach me at kjh2189[at]columbia.edu.
 
 <h2>Publications and Preprints</h2>
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 10px;">
     <a href = "https://scholar.google.com/">Google Scholar</a>
 </div>
 

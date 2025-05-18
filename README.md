@@ -1,8 +1,8 @@
 <div style="display: flex; align-items: center;">
 
-  <img src="kev_img.jpeg" alt="My Image" height="300">
+ 
   
-  <div style="margin-left: 20px;">
+  <div style="margin-right: 20px;">
 
 <h3>About me</h3>
     
@@ -18,6 +18,8 @@ You can reach me at kjh2189[at]columbia.edu.
 </p>
 
   </div>
+
+   <img src="kev_img.jpeg" alt="My Image" height="300">
 </div>
 
 <h2>Publications and Preprints</h2>

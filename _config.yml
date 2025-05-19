@@ -2,7 +2,7 @@ title: Kevin Hu
 description: ""
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

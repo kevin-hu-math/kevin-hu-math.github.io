@@ -1,8 +1,4 @@
 <html lang = "en">
-<head>
-  <meta charset="UTF-8">
-  <title>Kevin Hu</title>
-</head>
 <body>
 <div style="display: flex; align-items: center;">
   

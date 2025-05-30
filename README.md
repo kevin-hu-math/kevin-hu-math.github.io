@@ -31,7 +31,7 @@ You can reach me at kjh2189[at]columbia.edu.
 <p>
 <b>A case study of the long-time behavior of the Gaussian local-field equation</b> <br>
 Kevin Hu, Kavita Ramanan. <br>
-Preprint, 2025. [<a href = "https://arxiv.org/abs/2504.06449">arXiv</a>]
+Preprint, 2025. Submitted. [<a href = "https://arxiv.org/abs/2504.06449">arXiv</a>]
 </p>
 
 <p>

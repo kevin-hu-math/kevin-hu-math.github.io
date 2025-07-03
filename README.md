@@ -6,7 +6,7 @@
 
 <h3>About me</h3>
     
-<p>  I obtained my PhD in applied mathematics at Brown University in 2025 under the supervision of <a href = "https://appliedmath.brown.edu/people/kavita-ramanan">Kavita Ramanan</a>. Starting July 1, 2025, I will be a <a href = "https://www.simonsfoundation.org/simons-society-of-fellows/people/?type=junior">Junior Fellow</a> of the Simons Society of Fellows hosted by <a href = "https://www.columbia.edu/~dl3133/">Dan Lacker</a> at Columbia University. Click <a href="CV__April_2025_.pdf" target="_blank" rel="noopener noreferrer">here</a> for a CV.
+<p>  I am be a <a href = "https://www.simonsfoundation.org/simons-society-of-fellows/people/?type=junior">Junior Fellow</a> of the Simons Society of Fellows hosted by <a href = "https://www.columbia.edu/~dl3133/">Dan Lacker</a> at Columbia University. Previously, I obtained my PhD in applied mathematics at Brown University in 2025 under the supervision of <a href = "https://appliedmath.brown.edu/people/kavita-ramanan">Kavita Ramanan</a>. Click <a href="CV__April_2025_.pdf" target="_blank" rel="noopener noreferrer">here</a> for a CV.
 </p>
 
 <p>

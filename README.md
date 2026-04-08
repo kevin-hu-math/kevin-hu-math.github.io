@@ -38,7 +38,7 @@ Preprint, 2026. Submitted. [<a href = "https://arxiv.org/abs/2604.05234">arXiv</
 <p>
 <b>A case study of the long-time behavior of the Gaussian local-field equation</b> <br>
 Kevin Hu, Kavita Ramanan. <br>
-Preprint, 2025. To appear in <em>Electronic Journal of Probability</em>. [<a href = "https://arxiv.org/abs/2504.06449">arXiv</a>]
+Electronic Journal of Probability 2026, Vol. 31, paper no. 67, 1-36. [<a href = "https://arxiv.org/abs/2504.06449">arXiv</a>, <a href = "https://urldefense.com/v3/__https://doi.org/10.1214/26-EJP1520__;!!BDUfV1Et5lrpZQ!XlNS8VzECBKIXfRa_AsjEGBiXLnntvcmSKmzZPH0ib8ke73bke3uPX0qHZYcp8CRWGWDA_Nl7pB-vhjqHWpUr78FS4s1dtpk$">DOI</a>]
 </p>
 
 <p>

@@ -29,6 +29,13 @@ You can reach me at kjh2189[at]columbia.edu.
 </div>
 
 <p>
+<b>Quantitative propagation of chaos and universality for asymmetric Langevin spin glass dynamics</b> <br>
+Manuel Arnese, Kevin Hu. <br>
+Preprint, 2026. Submitted. [<a href = "https://arxiv.org/abs/2604.05234">arXiv</a>]
+</p>
+
+
+<p>
 <b>A case study of the long-time behavior of the Gaussian local-field equation</b> <br>
 Kevin Hu, Kavita Ramanan. <br>
 Preprint, 2025. To appear in <em>Electronic Journal of Probability</em>. [<a href = "https://arxiv.org/abs/2504.06449">arXiv</a>]

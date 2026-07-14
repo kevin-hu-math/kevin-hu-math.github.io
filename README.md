@@ -44,7 +44,7 @@ Kevin Hu, Kavita Ramanan. <br>
 <p>
 <b>An H-theorem for a conditional McKean-Vlasov process related to interacting diffusions on regular trees</b> <br>
 Kevin Hu, Kavita Ramanan. <br>
-Preprint, 2024. Submitted. [<a href = "https://arxiv.org/abs/2412.07710">arXiv</a>]
+To appear in <i> Probability and Mathematical Physics </i>, 2026. [<a href = "https://arxiv.org/abs/2412.07710">arXiv</a>]
 </p>
 
 <p>
